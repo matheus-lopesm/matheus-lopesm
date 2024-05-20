@@ -7,7 +7,7 @@ Bem-vindo ao meu perfil no GitHub! Sou estudante de Agronomia na Universidade Fe
 - 🌱 Estudante de: Agronomia na UFSC
 - 💡 Interesse: Biometria, Ciência de Dados, Estatística , Desenvolvimento de Aplicações Agronômicas
 - 🚀 Foco Atual: Projeto AIpomoea, Biblioteca Prepyrus
-- 💻 Tecnologias: Python (Flask, Pandas, TensorFlow, Keras, NumPy),SQLite, Vue3, JS, R e outros...
+- 💻 Tecnologias: Python (Flask, Pandas, TensorFlow, Keras, NumPy), SQLite, Vue3, JS, R e outros...
 - 🎓 Orientador: Tiago Olivoto (Pliman, Plimanshiny e Metan)
 
 ## Habilidades e Tecnologias
