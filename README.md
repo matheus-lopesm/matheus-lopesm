@@ -8,7 +8,6 @@ Bem-vindo ao meu perfil no GitHub! Sou estudante de Agronomia na Universidade Fe
 - 💡 Interesse: Biometria, Ciência de Dados, Estatística , Desenvolvimento de Aplicações Agronômicas
 - 🚀 Foco Atual: Projeto AIpomoea, Biblioteca Prepyrus
 - 💻 Tecnologias: Python (Flask, Pandas, TensorFlow, Keras, NumPy),SQLite, Vue3, JS, R e outros...
-- 📫 Como me encontrar: matheuslmachado03@gmail.com
 - 🎓 Orientador: Tiago Olivoto (Pliman, Plimanshiny e Metan)
 
 ## Habilidades e Tecnologias
