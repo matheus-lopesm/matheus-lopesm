@@ -23,7 +23,7 @@ Bem-vindo ao meu perfil no GitHub! Sou estudante de Agronomia na Universidade Fe
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats-red-two-76.vercel.app/api/top-langs/?layout=compact&username=matheus-lopesm&theme=transparent&size_weight=0.5&count_weight=0.5&exclude_repo=ceifador,acs-smap&hide=html,cmake,c&langs_count=4)
+![Top Langs](https://github-readme-stats-red-two-76.vercel.app/api/top-langs/?layout=compact&username=matheus-lopesm&theme=transparent&size_weight=0.5&count_weight=0.5&exclude_repo=ceifador,AIpomoea-models,acs-smap, &hide=html,cmake,c&langs_count=4)
 
 
 ### Projetos Colaborativos
