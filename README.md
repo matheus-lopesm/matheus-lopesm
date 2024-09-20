@@ -28,8 +28,8 @@ Bem-vindo ao meu perfil no GitHub! Sou estudante de Agronomia na Universidade Fe
 
 ### Projetos Colaborativos
 
-- [pliman](https://github.com/TiagoOlivoto/pliman): Pacote R para análise de imagens de plantas.
-- [plimanshiny](https://github.com/TiagoOlivoto/plimanshiny): Aplicação Shiny para visualização interativa do Pacote R.
+- [pliman](https://github.com/NEPEM-UFSC/pliman): Pacote R para análise de imagens de plantas.
+- [plimanshiny](https://github.com/NEPEM-UFSC/plimanshiny): Aplicação Shiny para visualização interativa do Pacote R.
 
 ## Conecte-se Comigo
 
