@@ -5,8 +5,8 @@ Bem-vindo ao meu perfil no GitHub! Sou estudante de Agronomia na Universidade Fe
 ## Sobre Mim
 
 - 🌱 Estudante de: Agronomia na UFSC
+- 🧪 Participante do NEPEM(Nucleo de Estudos em Experimentação e Melhoramento Vegetal) e GEAD (Grupo de Estudos em Agricultura Digital)
 - 💡 Interesse: Biometria, Ciência de Dados, Estatística, Fenotipagem de Alto Rendimento, Desenvolvimento de Aplicações Agronômicas
-- 🎓 Orientador: https://github.com/TiagoOlivoto/ (Pliman, Learnstats, Plimanshiny e Metan)
 
 ## Estudando e desenvolvendo com:
 
@@ -24,7 +24,7 @@ Bem-vindo ao meu perfil no GitHub! Sou estudante de Agronomia na Universidade Fe
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats-red-two-76.vercel.app/api/top-langs/?layout=compact&username=matheus-lopesm&theme=transparent&size_weight=0.5&count_weight=0.5&exclude_repo=ceifador,AIpomoea-models,acs-smap,&hide=html,cmake,c&langs_count=4)
+![Top Langs](https://github-readme-stats-red-two-76.vercel.app/api/top-langs/?layout=compact&username=matheus-lopesm&theme=transparent&size_weight=0.5&count_weight=0.5&exclude_repo=ceifador,AIpomoea-models,acs-smap,&hide=html,cmake,css,swift&langs_count=6)
 
 
 ### Projetos Colaborativos
