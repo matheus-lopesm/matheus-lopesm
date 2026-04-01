@@ -37,7 +37,7 @@ My passion lies at the intersection of the field and code. I focus on developing
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
 
-![Top Langs](https://github-readme-stats-red-two-76.vercel.app/api/top-langs/?layout=compact&username=matheus-lopesm&theme=transparent&size_weight=0.5&count_weight=0.5&exclude_repo=ceifador,AIpomoea-models,acs-smap,nepem,dashboardforma,&hide=html,cmake,css,swift,tex&langs_count=8)
+![Top Langs](https://github-readme-stats-red-two-76.vercel.app/api/top-langs/?layout=compact&username=matheus-lopesm&theme=transparent&size_weight=0.5&count_weight=0.5&exclude_repo=ceifador,AIpomoea-models,acs-smap,nepem,dashboardforma,&hide=html,cmake,css,swift,tex,powershell&langs_count=8)
 
 ## 🔭 Featured Projects (NEPEM-UFSC)
 
