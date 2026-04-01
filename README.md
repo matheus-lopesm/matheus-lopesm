@@ -47,7 +47,3 @@ I develop open-source tools focused on agronomic research and biometrics.
 - **[AIpomoea](https://github.com/NEPEM-UFSC/AIpomoea)** (Python/C++): Artificial Intelligence platform applied to phenotyping and classification of sweet potato (*Ipomoea batatas*). *Registered Software.*
 - **[tsimg](https://github.com/NEPEM-UFSC/tsimg)** & **[tsimgR](https://github.com/NEPEM-UFSC/tsimgR)** (C++ / R): Engine and R package for dynamic processing and export of serial images (Time-Series Imaging).
 - **Certificate System** ([Core](https://github.com/NEPEM-UFSC/certificados) & [CLI](https://github.com/NEPEM-UFSC/nepemcert)): Fullstack ecosystem (TypeScript/Python) for validation and automated generation of academic certificates.
-
-### Developer / Collaboration
-- **[pliman](https://github.com/NEPEM-UFSC/pliman)** (R): R package for plant image analysis and phytopathometry.
-- **[plimanshiny](
