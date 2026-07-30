@@ -44,6 +44,7 @@ My passion lies at the intersection of the field and code. I focus on developing
 I develop open-source tools focused on agronomic research and biometrics.
 
 ### Lead Author / Creator
+- **[Plimanshiny](https://github.com/NEPEM-UFSC/Plimanshiny)** (R/C++): Shiny interface for Pliman package, HTP-enabled, plot, UAV and Image analisys*
 - **[AIpomoea](https://github.com/NEPEM-UFSC/AIpomoea)** (Python/C++): Artificial Intelligence platform applied to phenotyping and classification of sweet potato (*Ipomoea batatas*). *Registered Software.*
 - **[tsimg](https://github.com/NEPEM-UFSC/tsimg)** & **[tsimgR](https://github.com/NEPEM-UFSC/tsimgR)** (C++ / R): Engine and R package for dynamic processing and export of serial images (Time-Series Imaging).
 - **Certificate System** ([Core](https://github.com/NEPEM-UFSC/certificados) & [CLI](https://github.com/NEPEM-UFSC/nepemcert)): Fullstack ecosystem (TypeScript/Python) for validation and automated generation of academic certificates.
